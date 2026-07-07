@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Studio",
+  "description": "Premium global web design & development agency creating award-winning websites that scale businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
